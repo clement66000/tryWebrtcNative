@@ -37,10 +37,6 @@ const App = () => {
   return (
     <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
       <Text>App</Text>
-      <Text>App</Text>
-      <Text>App</Text>
-      <Text>App</Text>
-      <Text>App</Text>
       <Button
         title={'Call'}
         onPress={() => {
