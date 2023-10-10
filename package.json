@@ -13,6 +13,7 @@
     "@khateeb00/react-jssip": "^1.0.19",
     "react": "18.2.0",
     "react-native": "0.72.5",
+    "react-native-callkeep": "^4.3.12",
     "react-native-webrtc": "^111.0.4"
   },
   "devDependencies": {
